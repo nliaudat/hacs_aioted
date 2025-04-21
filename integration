@@ -835,6 +835,7 @@
   "NinDTendo/homeassistant_gradual_volume_control",
   "NinDTendo/tobi",
   "nkvoll/home-assistant-qsys-qrc",
+  "nliaudat/aioted_manager",
   "nordicopen/easee_hass",
   "nstrelow/ha_philips_android_tv",
   "nyffchanium/argoclima-integration",
